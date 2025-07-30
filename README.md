@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning holographic entanglement entropy.
 - 💞️ I’m looking to collaborate on string theory.
 - 📫 How to reach me (https://inspirehep.net/authors/2739744)
-- 😄 Pronouns: ...
+- 😄 Information technical problems can find in **stack overflow** website!!!
 - ⚡ Fun fact: ...
 
 <!---
